@@ -15,3 +15,7 @@ Simple example of deploying a web project, deployment can be on any web server o
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+## Copyright 
+
+2019 Git.training 
