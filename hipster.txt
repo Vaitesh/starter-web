@@ -6,3 +6,4 @@ Understand how you can define database assets as TM1 objects in your source defi
 Learn the Git commands that you use to initialize your source, deploy your source to Git, and publish a model to your environment. For more information, see Git Integration.
 Create a TM1 project file to deploy and publish your model. For more information, see TM1 Project.
 Learn the syntax for specifying types of objects to represent your database assets. For more information, see Source Specification.
+Making some changes to be brought up her to do the changes in this text file and i am trying to understand how the modification is being detected by git and how is it being used to show the status. lets get back to the video and see further.
