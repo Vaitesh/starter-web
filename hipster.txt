@@ -1,0 +1,8 @@
+You can use Git source control to deploy database assets such as cubes, books, and views between development and production environments. The source specification of database assets (also called objects) is created and managed with Git commands. The process of deploying database assets from a development environment to a production environment uses specific Git commands.
+
+You can learn more about defining the objects that make up a TM1® model by following these steps:
+
+Understand how you can define database assets as TM1 objects in your source definition. For more information, see Source.
+Learn the Git commands that you use to initialize your source, deploy your source to Git, and publish a model to your environment. For more information, see Git Integration.
+Create a TM1 project file to deploy and publish your model. For more information, see TM1 Project.
+Learn the syntax for specifying types of objects to represent your database assets. For more information, see Source Specification.
